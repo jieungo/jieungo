@@ -19,11 +19,6 @@
 </br> 🔴 유튜브 : https://www.youtube.com/watch?v=WDNLef7isgw 
 </br> 📄 리드미 : https://github.com/jieungo/The_seat_project 
 </br>
-</br>
-👇🏻 Personal Project 👇🏻 </br></br>
-놀멍쉬멍 : 반려인을 위한 커뮤니티 (2021.10.12 ~ 진행 중)
-</br> 📄 리드미 : https://github.com/jieungo/meong 
-
 </p>
 
 
