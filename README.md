@@ -24,7 +24,7 @@
 <p align="center">
 👇🏻 Personal Project 👇🏻 </br></br>
 Goalgoal : 할 일은 모두 하고 놀자. </br> 오늘의 Todo List를 모두 달성해야만 포스팅이 가능한 신개념 Todo List 앱 서비스
-</br> 📄 리드미 : https://github.com/jieungo/goalgoal
+</br> 📄 리드미 : https://github.com/jieungo/goalgoal/tree/main/goalgoal
 </br>
 
 </p>
