@@ -19,6 +19,11 @@
 </br> 🔴 유튜브 : https://www.youtube.com/watch?v=WDNLef7isgw 
 </br> 📄 리드미 : https://github.com/jieungo/The_seat_project 
 </br>
+
+👇🏻 Personal Project 👇🏻 </br></br>
+Goalgoal : 할 일은 모두 하고 놀자. 오늘의 Todo List를 모두 달성해야만 포스팅이 가능한 신개념 Todo List 앱 서비스
+</br> 📄 리드미 : https://github.com/jieungo/goalgoal
+</br>
 </p>
 
 
