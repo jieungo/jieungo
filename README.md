@@ -2,7 +2,7 @@
 
 <br>
 
-<h3 align="center"> 🌱 Come visit my Tech Blog </h3>
+<h5 align="center"> 🌱 Come visit my Tech Blog </h5>
 
 
 <p align="center">
@@ -11,28 +11,23 @@
 
 <br>
 
-<h3 align="center"> 👩🏻‍💻 Projects </h3>
-</br>
-<p align="center">
-👇🏻 Team Project 👇🏻 </br></br>
-자리..있어요? : 사장님과 사용자를 위한 자리 예약 서비스
-</br> 🔴 유튜브 : https://www.youtube.com/watch?v=WDNLef7isgw 
-</br> 📄 리드미 : https://github.com/jieungo/The_seat_project 
-</br>
-</p>
+<h4 align="center"> 👩🏻‍💻 Projects </h3>
 
 <p align="center">
-👇🏻 Personal Project 👇🏻 </br></br>
-Goalgoal : 할 일은 모두 하고 놀자. </br> 오늘의 Todo List를 모두 달성해야만 포스팅이 가능한 신개념 Todo List 앱 서비스
-</br> 📄 리드미 : https://github.com/jieungo/goalgoal/tree/main/goalgoal
-</br>
+
+|프로젝트명|리드미|
+|------|---|
+|놀멍쉬멍|<https://github.com/jieungo/meong>|
+|자리..있어요?|<https://github.com/jieungo/The_seat_project>|
+|goalgoal|<https://github.com/jieungo/goalgoal/tree/main/goalgoal>|
+
 
 </p>
 
 
 <br>
 
-<h3 align="center"> 🛠 Techs that I've used at least once </h3>
+<h4 align="center"> 🛠 I've used at least once </h4>
 
  
 <p align="center">
@@ -48,11 +43,17 @@ Goalgoal : 할 일은 모두 하고 놀자. </br> 오늘의 Todo List를 모두 
   <img src="https://img.shields.io/badge/Redux-Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
 <br>
 
-<h3 align="center"> 🕺🏻 Tools </h3>
+<h4 align="center"> 🕺🏻 Tools </h4>
 
 
 <p align="center">
@@ -60,13 +61,9 @@ Goalgoal : 할 일은 모두 하고 놀자. </br> 오늘의 Todo List를 모두 
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
+</a>
 </p>
 <br>
 
-<h3 align="center"> 💌 Contact Me </h3>
-<p align="center">
-  <a href="mailto:gje2041@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gje2041@naver.com"/></a>
-</p>
-
 <br>
+
