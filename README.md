@@ -14,8 +14,8 @@
 |프로젝트명|리드미|
 |------|---|
 |놀멍쉬멍|<https://github.com/jieungo/meong>|
-|자리..있어요?|<https://github.com/jieungo/The_seat_project>|
 |goalgoal|<https://github.com/jieungo/goalgoal/tree/main/goalgoal>|
+|자리..있어요?|<https://github.com/jieungo/The_seat_project>|
 
 <br>
 
