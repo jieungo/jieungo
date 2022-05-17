@@ -1,7 +1,5 @@
 <h2> JIEUN GO <br></h2>
 
-----
-
 
 
 <h4 > 🌱 Tech Blog </h4>
